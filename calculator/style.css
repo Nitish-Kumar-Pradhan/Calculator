@@ -10,8 +10,8 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background: linear-gradient(45deg, rgb(61, 22, 22)
-    , rgb(70, 25, 25))
+    background: linear-gradient(45deg, rgb(18, 17, 17)
+    , rgb(40, 40, 40))
 }
 .Calculator{
     border: 1px solid #717377;
